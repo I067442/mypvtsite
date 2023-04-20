@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmypvtsite=self.webpackChunkmypvtsite||[]).push([[3121],{522:e=>{e.exports=JSON.parse('{"permalink":"/mypvtsite/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
