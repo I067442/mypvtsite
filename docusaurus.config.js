@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'jagbot11', // Usually your GitHub org/user name.
+  organizationName: 'I067442', // Usually your GitHub org/user name.
   projectName: 'mypvtsite', // Usually your repo name.
 
   onBrokenLinks: 'throw',
